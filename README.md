@@ -1,2 +1,2 @@
-# jump-to-recipe
-Simple scraper to jump to the recipe card on a recipe blog
+# just-the-recipe
+Simple python scraper to get just the recipe from a recipe blog
